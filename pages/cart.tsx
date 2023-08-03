@@ -8,7 +8,7 @@ const Cart: NextPage = () =>{
                 <title>Carrinho</title>
                 <meta name="description" content="Meu carrinho de compras"/>
             </Head>
-            <h1>Carrinho</h1>
+            <h1>Carrinho de Conpras</h1>
         </>
     )
 }
